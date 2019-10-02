@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214.62 53">
+	<defs>
+		<style>.cls-1{stroke:#fff;stroke-miterlimit:10;}</style>
+		<filter id="f1" x="0" y="0" width="200%" height="200%">
+      		<feOffset result="offsetblur" in="SourceAlpha" dx="1" dy="1" />
+      		<feGaussianBlur result="blurOut" in="offOut" stdDeviation="1" />
+      		<feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    	</filter>
+	</defs>
+	<g id="Capa_2" data-name="Capa 2">
+		<g id="Capa_1-2" data-name="Capa 1">
+			<path style="fill:#fff;" class="cls-1" d="M213.73.5l-31.9,52H.89L32.64.75Z" filter="url(#f1)"/>
+		</g>
+	</g>
+</svg>

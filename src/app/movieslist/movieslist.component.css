@@ -1,0 +1,17 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ * * * * * * * * * * * Created by Mateo Álvarez García * * * * * * * * * * 
+ * * * * * * * * * * * * CSS stylesheet - Movies List  * * * * * * * * * * 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+.content_mov_list {
+	width: 100%;
+	height: 650px;
+}
+
+.cont_mov_list {
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin: 120px auto;
+	border-radius: 15px;
+}

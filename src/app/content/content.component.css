@@ -1,0 +1,17 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
+ * * * * * * * * * * * Created by Mateo Álvarez García * * * * * * * * * * 
+ * * * * * * * * * * * * * CSS stylesheet - Content  * * * * * * * * * * * 
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+ 
+.content_01 {
+	width: 100%;
+	height: 650px;
+}
+
+.cont {
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	margin: 120px auto;
+	border-radius: 15px;
+}
