@@ -5,7 +5,7 @@ Catálogo Online de Películas de Star Wars.
 
 # Descripción
 
-Se desarrollara la aplicación ( Star Wars - Catálogo Online ) que permitira ver toda la informacion relevante de las peliculas de Star Wars, como requisito la solución debera utilizar el framework Angular, Se propone la creación de una API propia que provea la consulta de información y permita la administración de contenidos, basado en el framework Laravel.
+Se propone el desarrollo de una aplicación web que posibilite visualizar y agregar información de usuarios y películas de Star Wars, se utilizara el framework Angular para el Front-end y para el Back-end se construirá una API REST para que la aplicación consuma basado en el popular framework Laravel.
 
 
 # Integrates
