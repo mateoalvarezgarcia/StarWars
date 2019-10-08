@@ -21,5 +21,5 @@ Mateo Álvarez García ( Codigo : 1810660157 )
 
 ## Inicia el Servidor
 
-Ejecuta `ng serve` para iniciar el servidor de desarrollo. ingresa al enlace http://localhost:4200/, la aplicacion cambiara automaticamente si encuentra algun cambio en los archivos fuentes del proyecto.
+Ejecuta `ng serve` para iniciar el servidor de desarrollo de Angular. ingresa al enlace http://localhost:4200/, la aplicacion cambiara automaticamente si encuentra algun cambio en los archivos fuentes del proyecto.
 
