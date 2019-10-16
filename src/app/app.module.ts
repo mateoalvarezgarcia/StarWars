@@ -1,6 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavigationComponent } from './navigation/navigation.component';
@@ -11,8 +10,8 @@ import { MoviesComponent } from './movies/movies.component';
 import { LoginComponent } from './login/login.component';
 import { NofoundComponent } from './nofound/nofound.component';
 import { MoviesdetailComponent } from './moviesdetail/moviesdetail.component';
-import { MovieslistComponent } from './movieslist/movieslist.component';
-import { MoviesaddComponent } from './moviesadd/moviesadd.component';
+//import { MovieslistComponent } from './movieslist/movieslist.component';
+//import { MoviesaddComponent } from './moviesadd/moviesadd.component';
 //import { UsersaddComponent } from './usersadd/usersadd.component';
 //import { UsersdetailComponent } from './usersdetail/usersdetail.component';
 
@@ -27,8 +26,8 @@ import { MoviesaddComponent } from './moviesadd/moviesadd.component';
     LoginComponent,
     NofoundComponent,
     MoviesdetailComponent,
-    MovieslistComponent,
-    MoviesaddComponent
+    //MovieslistComponent,
+    //MoviesaddComponent,
     //UsersaddComponent,
     //UsersdetailComponent
   ],
